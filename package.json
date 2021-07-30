@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
+  "name": "taleofmagiclauncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "Tale Of Magic Launcher",
+  "description": "Launcher minecraft du serveur A Tale Of Magic.",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/dscalzi/taleofmagiclauncher.git"
   }
 }
